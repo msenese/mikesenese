@@ -18,4 +18,4 @@ You may know me from:
 - Teaching through examples and experimentation
 
 ### 🌐 Connect
-[LinkedIn]((https://www.linkedin.com/in/mikesenese/)) • [Website](https://mikesenese.com/)
+[LinkedIn](https://www.linkedin.com/in/mikesenese/)) • [Website](https://mikesenese.com/)
